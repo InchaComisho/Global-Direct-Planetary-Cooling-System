@@ -2,6 +2,8 @@
 Integrated Natural Climate Stabilization Model  — Ocean Breathing × Urban Nanomist Cooling × Desert Regeneration —
 Global Direct Planetary Cooling System
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Integrated Natural Climate Stabilization Model
 
 — Ocean Breathing × Urban Nanomist Cooling × Desert Regeneration —

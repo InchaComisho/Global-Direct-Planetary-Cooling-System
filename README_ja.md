@@ -257,10 +257,6 @@ AIは、過剰湿度や雲形成を避けながら、ミスト密度と散布タ
 #SustainableTech #OpenScience #ArtificialWisdom #MasterPlan  
 #DirectCooling #ClimateSolution #GreenTechnology #FutureEarth
 
-## 関連NOTE
-
-- https://note.com/inchacomusho/n/n25331820f73f?app_launch=false
-
 ## 関連リンク
 
 ### 地球温暖化の因果構造とクーリングクレジット

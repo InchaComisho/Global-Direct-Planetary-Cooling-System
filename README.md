@@ -278,8 +278,6 @@ But if deployed, these systems can stabilize the planet without high-risk geoeng
 #SustainableTech #OpenScience #ArtificialWisdom #MasterPlan
 #DirectCooling #ClimateSolution #GreenTechnology #FutureEarth
 
-https://note.com/inchacomusho/n/n25331820f73f?app_launch=false
-
 ### Global Warming Causal Structure and Cooling Credit
 
 - [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)

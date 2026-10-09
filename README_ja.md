@@ -1,6 +1,6 @@
 # Global Direct Planetary Cooling System
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、Ocean Breathing System（OBS：海洋呼吸システム）、Urban Nanomist Cooling System（UNCS：都市ナノミスト冷却システム）、Desert Regeneration & Cooling Model（砂漠再生・冷却モデル）を統合した、概念的な地球規模直接冷却システムを日本語で整理したものです。これは実証済みの気候制御技術ではなく、仮説的・概念的提案です。実装には、科学的検証、生態系評価、工学的検証、社会的合意、国際的ガバナンスが必要です。
 

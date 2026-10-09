@@ -1,4 +1,7 @@
 # Global-Direct-Planetary-Cooling-System
+
+[日本語版はこちら / Japanese version](README_ja.md)
+
 Integrated Natural Climate Stabilization Model  — Ocean Breathing × Urban Nanomist Cooling × Desert Regeneration —
 Global Direct Planetary Cooling System
 
